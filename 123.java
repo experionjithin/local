@@ -12,3 +12,5 @@ for(i=n;i>0;i--)
 system.out.println("factorial of "+n" is "+f);
 }
 } 
+1
+2
